@@ -1,0 +1,47 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta left_parenthesis" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="meta quotedbl" />
+  </action>
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+    <keyboard-shortcut first-keystroke="meta a_with_grave" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta ampersand" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta e_with_grave" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+    <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
+  <action id="Images.Editor.ToggleGrid">
+    <keyboard-shortcut first-keystroke="meta alt quote" />
+  </action>
+</keymap>
