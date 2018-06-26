@@ -17,7 +17,7 @@
     <mask>*route*</mask>
     <mask>*route*.$</mask>
     <mask>*employee*.*</mask>
-    <mask>*route*.*</mask>
     <mask>*.html</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
