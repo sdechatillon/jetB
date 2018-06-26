@@ -241,6 +241,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '# Exams - Employee Addition'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '# Exams - Employee Addition'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '# Init tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -382,6 +390,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Exam Medical Info (Document, Aptitude)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '# Exams - Employee Addition'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Exams - Employee Addition'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
