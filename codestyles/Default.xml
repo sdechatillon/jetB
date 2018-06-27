@@ -2,4 +2,7 @@
   <JSCodeStyleSettings>
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+  </TypeScriptCodeStyleSettings>
 </code_scheme>
