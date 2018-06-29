@@ -550,7 +550,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>137</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
