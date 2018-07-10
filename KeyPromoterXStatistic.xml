@@ -113,6 +113,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '20180710184600-add-m...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug '20180710184600-add-m...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'authentication-wrapp...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
