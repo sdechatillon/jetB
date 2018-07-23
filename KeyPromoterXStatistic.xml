@@ -414,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun '# Work Relation Groups tests'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run init-data light (with fewer employees)'">
@@ -606,7 +606,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Work Relation Groups tests'</Description>
-          <Count>58</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '20180712184600-add-medtraits-sir-sia.js'">
