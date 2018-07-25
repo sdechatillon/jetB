@@ -745,6 +745,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌘⌦'</ShortCut>
+          <Description>Safe Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
