@@ -97,6 +97,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug '# Bulk Update Sir Sia'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug '# Bulk Update Sir Sia'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug '# Employee Medical Needs Tests'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -167,6 +175,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'debug'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'wr_group.integration.test.js'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'wr_group.integration.test.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -486,7 +502,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>621</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -534,7 +550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Bulk Update Sir Sia'</Description>
-          <Count>5</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Email data fetching'">
@@ -830,7 +846,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '# Bulk Update Sir Sia'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '# Exam Reminders'">
@@ -926,7 +942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>189</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
