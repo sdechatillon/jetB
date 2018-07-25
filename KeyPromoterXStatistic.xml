@@ -558,7 +558,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Bulk Update Sir Sia'</Description>
-          <Count>18</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Email data fetching'">
