@@ -561,6 +561,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '# Disambiguate Employee Search (restricted to a medical team)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Disambiguate Employee Search (restricted to a medical team)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '# Email data fetching'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -769,6 +777,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'user.search.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'user.search.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'wr_group.integration.test.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -814,7 +830,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
