@@ -569,6 +569,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '# CSP tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# CSP tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '# Disambiguate Employee Search (restricted to a medical team)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -719,6 +727,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run '20180712184600-add-medtraits-sir-sia.js'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DB Hooks'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DB Hooks'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run init-data light (with fewer employees)'">
