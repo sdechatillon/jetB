@@ -737,6 +737,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'authentication-wrapper.component.html'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'authentication-wrapper.component.html'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'init.data.main.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
