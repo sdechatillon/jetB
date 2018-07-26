@@ -465,6 +465,14 @@
           <Count>43</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DB Hooks'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DB Hooks'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Run init-data light (with fewer employees)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
