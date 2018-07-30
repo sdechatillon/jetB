@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5' or '⌘('</ShortCut>
           <Description>Debug</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '# Bulk Update Sir Sia'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'server/scripts/init/init.integration.js'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'wr_group.integration.test.js'">
@@ -558,7 +558,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>705</Count>
+          <Count>734</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4' or '⌘''</ShortCut>
           <Description>Run</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Authentication V2 unittest'">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>224</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
