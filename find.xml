@@ -19,6 +19,8 @@
     <mask>*employee*.*</mask>
     <mask>*.html</mask>
     <mask>*service*.*</mask>
+    <mask>*controller*.*</mask>
     <mask>*route*.*</mask>
+    <mask>*test*.*</mask>
   </component>
 </application>
