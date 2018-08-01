@@ -24,5 +24,6 @@
     <mask>*controller*.*</mask>
     <mask>*route*.*</mask>
     <mask>*test*.*</mask>
+    <mask>*2018*.*</mask>
   </component>
 </application>
