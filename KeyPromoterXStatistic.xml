@@ -761,6 +761,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '# Reminder unit test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Reminder unit test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '# Users Tests'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -855,6 +863,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'recovery birthdate'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'reminder.unittest.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'reminder.unittest.js'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'server/scripts/init/init.integration.js'">
