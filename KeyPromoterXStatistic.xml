@@ -873,6 +873,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'check.forms.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'check.forms.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'employee.med_needs.test.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -943,6 +951,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'server/helpers/filters/filterchain.test.js'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/scripts/check.forms.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/scripts/check.forms.js'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'server/scripts/init/init.integration.js'">
