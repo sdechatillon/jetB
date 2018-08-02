@@ -614,7 +614,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Authentication V2'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Authentication V2.# Log in, employee …nd employeeApp feature flag is disabled '">
@@ -865,6 +865,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'group_tag.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'group_tag.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'groups.tester.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -919,6 +927,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'server/topics/auth/auth.v2.test.js'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/topics/employee/employee.med_needs.test.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/topics/employee/employee.med_needs.test.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'server/topics/wr_group/wr_group.integration.test.js'">
