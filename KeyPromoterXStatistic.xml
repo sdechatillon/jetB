@@ -561,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'server/topics/group_tag/group_tag.test.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'server/topics/group_tag/group_tag.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'server/topics/wr_group/wr_group.integration.test.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -671,6 +679,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Employee Tests'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '# Exam Convocation PDF'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Exam Convocation PDF'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Exam Digital Sign (Document, Aptitude)'">
