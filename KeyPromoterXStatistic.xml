@@ -14,7 +14,7 @@
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
           <ShortCut>'⇧⌘8'</ShortCut>
           <Description>Column Selection Mode</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Block Comment">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -201,6 +201,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'server/topics/reminder/reminder.unittest.js'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'server/topics/reminder/reminder.unittest.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'wr_group.integration.test.js'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -249,6 +257,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
@@ -270,7 +286,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>71</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -302,7 +318,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -321,12 +337,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -366,7 +390,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>52</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '# Authentication V2'">
@@ -537,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'server/topics/group_tag/group_tag.test.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'server/topics/group_tag/group_tag.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'server/topics/wr_group/wr_group.integration.test.js'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -550,7 +582,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -558,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>762</Count>
+          <Count>858</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -590,7 +622,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Authentication V2'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Authentication V2.# Log in, employee …nd employeeApp feature flag is disabled '">
@@ -649,6 +681,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '# Exam Convocation PDF'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Exam Convocation PDF'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '# Exam Digital Sign (Document, Aptitude)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -671,6 +711,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Exam Reminders'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '# Exam reminders unit tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Exam reminders unit tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Exams - Employee Addition'">
@@ -745,6 +793,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '# Reminder unit test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '# Reminder unit test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run '# Users Tests'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -817,6 +873,46 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'check.forms.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'check.forms.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'employee.med_needs.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'employee.med_needs.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'exam.coverage.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'exam.coverage.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'filterchain.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'filterchain.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'group_tag.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'group_tag.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'groups.tester.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -841,6 +937,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'reminder.unittest.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'reminder.unittest.js'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/helpers/filters/filterchain.test.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/helpers/filters/filterchain.test.js'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/scripts/check.forms.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/scripts/check.forms.js'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'server/scripts/init/init.integration.js'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -855,6 +975,22 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'server/topics/auth/auth.v2.test.js'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/topics/employee/employee.med_needs.test.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/topics/employee/employee.med_needs.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'server/topics/exam/exam-test/exam.coverage.test.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/topics/exam/exam-test/exam.coverage.test.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'server/topics/wr_group/wr_group.integration.test.js'">
@@ -926,7 +1062,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>199</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1041,6 +1177,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'server/helpers/filters/filterchain.test.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'server/helpers/filters/filterchain.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'server/scripts/check.forms.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'server/scripts/check.forms.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'server/scripts/init/init.integration.js'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1078,7 +1230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>245</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
