@@ -977,6 +977,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'medical_contract.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'medical_contract.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'recovery birthdate'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1049,6 +1057,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'server/topics/medical_contract/medical_contract.test.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'server/topics/medical_contract/medical_contract.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'server/topics/wr_group/wr_group.integration.test.js'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1062,6 +1078,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'should not send loginEmailToken when lo…nd employeeApp feature flag is disabled '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tag.test.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'tag.test.js'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
