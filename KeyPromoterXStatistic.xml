@@ -302,7 +302,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'⌥⌘H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>34</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>210</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
