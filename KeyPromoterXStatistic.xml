@@ -278,7 +278,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Exclude</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -406,7 +406,15 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>55</Count>
+          <Count>58</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '# Annual Report Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '# Annual Report Tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '# Authentication V2'">
@@ -622,7 +630,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -630,7 +638,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4' or '⌘''</ShortCut>
           <Description>Run</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Annual Report Tests'">
@@ -798,7 +806,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '# Medical Contracts tests'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '# Medical Member Tests'">
