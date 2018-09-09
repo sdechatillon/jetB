@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,11 +19,11 @@
     <mask>*.html</mask>
     <mask>*service*.*</mask>
     <mask>*controller*.*</mask>
-    <mask>*test*.*</mask>
     <mask>*2018*.*</mask>
     <mask>*.*sql</mask>
     <mask>*.*ts</mask>
     <mask>*.*</mask>
     <mask>*route*.*</mask>
+    <mask>*test*.*</mask>
   </component>
 </application>
