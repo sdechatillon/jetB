@@ -16,7 +16,6 @@
     <mask>*route*.$</mask>
     <mask>*employee*.*</mask>
     <mask>*.html</mask>
-    <mask>*service*.*</mask>
     <mask>*controller*.*</mask>
     <mask>*2018*.*</mask>
     <mask>*.*sql</mask>
@@ -25,5 +24,6 @@
     <mask>*test*.*</mask>
     <mask>*.*scss</mask>
     <mask>*route*.*</mask>
+    <mask>*service*.*</mask>
   </component>
 </application>
