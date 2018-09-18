@@ -25,5 +25,6 @@
     <mask>*route*.*</mask>
     <mask>*service*.*</mask>
     <mask>*test*.*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
