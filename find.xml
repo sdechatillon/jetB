@@ -7,7 +7,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -16,13 +15,18 @@
     <mask>*route*.$</mask>
     <mask>*employee*.*</mask>
     <mask>*.html</mask>
-    <mask>*service*.*</mask>
     <mask>*controller*.*</mask>
     <mask>*2018*.*</mask>
     <mask>*.*sql</mask>
     <mask>*.*ts</mask>
     <mask>*.*</mask>
+    <mask>*.*scss</mask>
     <mask>*route*.*</mask>
+    <mask>*service*.*</mask>
     <mask>*test*.*</mask>
+    <mask>s*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.component.ts</mask>
   </component>
 </application>
