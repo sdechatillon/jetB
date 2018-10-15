@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*route*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,7 +22,6 @@
     <mask>*.*ts</mask>
     <mask>*.*</mask>
     <mask>*.*scss</mask>
-    <mask>*route*.*</mask>
     <mask>*service*.*</mask>
     <mask>*test*.*</mask>
     <mask>s*.js</mask>
@@ -29,5 +31,6 @@
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
