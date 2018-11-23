@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*service*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,7 +20,6 @@
     <mask>*.*ts</mask>
     <mask>*.*</mask>
     <mask>*.*scss</mask>
-    <mask>*service*.*</mask>
     <mask>*test*.*</mask>
     <mask>s*.js</mask>
     <mask>*.js</mask>
@@ -29,5 +29,6 @@
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*route*.*</mask>
+    <mask>*service*.*</mask>
   </component>
 </application>
