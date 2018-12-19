@@ -30,5 +30,6 @@
     <mask>*service*.*</mask>
     <mask>*helper*.*</mask>
     <mask>*route*.*</mask>
+    <mask>*api*service*.*</mask>
   </component>
 </application>
