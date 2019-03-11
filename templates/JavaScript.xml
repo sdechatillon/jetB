@@ -1,0 +1,19 @@
+<templateSet group="JavaScript">
+  <template name="cll" value="console.log('Class: $CLASS$, Function: $FUNCTION$, Line $LINE$ $PARAM_TEXT$($EXPECTED$): '&#10;, $PARAM$);$END$" description="inserts console.log(‘’);" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="jsClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="FUNCTION" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM_TEXT" expression="" defaultValue="PARAM" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log('$PARAM$ : ', $PARAM$);$END$" description="inserts console.log(‘’);" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
