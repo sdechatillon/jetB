@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*route*.*" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -33,7 +34,7 @@
     <mask>*.*ts*</mask>
     <mask>*.*js*</mask>
     <mask>*service*.*</mask>
-    <mask>*route*.*</mask>
     <mask>*tester*.*</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
