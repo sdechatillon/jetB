@@ -33,7 +33,7 @@
     <mask>*.*js*</mask>
     <mask>*service*.*</mask>
     <mask>*tester*.*</mask>
-    <mask>*route*.*</mask>
     <mask>*.*csv</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
