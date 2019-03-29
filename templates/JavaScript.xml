@@ -16,4 +16,15 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="dapi" value="const debug = require('debug')('api'); // eslint-disable-line no-unused-vars&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="dep" value="debug('DEPRECATED check never called : $PARAM$');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
