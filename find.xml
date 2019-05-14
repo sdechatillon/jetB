@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*service*.*" />
+    <option name="FILE_MASK" value="*test*.*" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -16,7 +16,6 @@
     <mask>*.*ts</mask>
     <mask>*.*</mask>
     <mask>*.*scss</mask>
-    <mask>*test*.*</mask>
     <mask>s*.js</mask>
     <mask>*.js</mask>
     <mask>*.component.ts</mask>
@@ -34,5 +33,6 @@
     <mask>*.*html*</mask>
     <mask>*route*.*</mask>
     <mask>*service*.*</mask>
+    <mask>*test*.*</mask>
   </component>
 </application>
