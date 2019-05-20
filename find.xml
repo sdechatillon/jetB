@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*ROUTE*.*" />
     <mask>*.mxml</mask>
     <mask>*route*</mask>
     <mask>*route*.$</mask>
@@ -35,5 +35,6 @@
     <mask>*tester*.*</mask>
     <mask>*route*.*</mask>
     <mask>*README*.*</mask>
+    <mask>*ROUTE*.*</mask>
   </component>
 </application>
