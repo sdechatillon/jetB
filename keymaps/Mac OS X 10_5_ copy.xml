@@ -44,6 +44,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="Exit" />
   <action id="GotoTest" />
   <action id="Images.Editor.ToggleGrid">
     <keyboard-shortcut first-keystroke="meta alt quote" />
