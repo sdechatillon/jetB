@@ -19,7 +19,6 @@
     <mask>*.js</mask>
     <mask>*.component.ts</mask>
     <mask>*.component.html</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*helper*.*</mask>
@@ -35,5 +34,6 @@
     <mask>*route*.*</mask>
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
+    <mask>*.html</mask>
   </component>
 </application>
