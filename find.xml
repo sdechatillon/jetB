@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*route*</mask>
     <mask>*route*.$</mask>
     <mask>*employee*.*</mask>
@@ -35,5 +35,6 @@
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
     <mask>*.html</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
