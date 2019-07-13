@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*employee*.*</mask>
+    <option name="FILE_MASK" value="*test.js" />
     <mask>*controller*.*</mask>
     <mask>*2018*.*</mask>
     <mask>*.*sql</mask>
@@ -37,5 +37,6 @@
     <mask>*.js</mask>
     <mask>*service*.js</mask>
     <mask>*api*.ts</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
