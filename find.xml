@@ -4,13 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*js" />
-    <mask>*2018*.*</mask>
     <mask>*.*sql</mask>
     <mask>*.*ts</mask>
     <mask>*.*</mask>
@@ -40,5 +36,6 @@
     <mask>*api*.ts</mask>
     <mask>*test.js</mask>
     <mask>*js</mask>
+    <mask>*route*.*js</mask>
   </component>
 </application>
