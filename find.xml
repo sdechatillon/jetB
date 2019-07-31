@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.*scss</mask>
     <mask>s*.js</mask>
     <mask>*.component.ts</mask>
     <mask>*.component.html</mask>
@@ -35,5 +36,6 @@
     <mask>*test.*js</mask>
     <mask>*route.*js</mask>
     <mask>*service*.*js</mask>
+    <mask>*model*.*ts</mask>
   </component>
 </application>
