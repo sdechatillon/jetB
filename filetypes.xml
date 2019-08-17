@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="DSQ" type="PLAIN_TEXT" />
-      <mapping pattern="CounterService" type="TypeScript" />
-      <mapping pattern="UserServices" type="TypeScript" />
+      <mapping pattern="gdtFile.ts" type="Angular2Html" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="helpers" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="20190709184600-fix-operators-outcome-condition" type="SQL" />
+      <mapping pattern="FileHelper" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
