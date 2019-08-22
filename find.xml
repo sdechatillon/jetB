@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.component.html</mask>
+    <option name="FILE_MASK" value="*module*.*" />
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*helper*.*</mask>
@@ -33,5 +33,6 @@
     <mask>*model*.*ts</mask>
     <mask>*visio*.*ts</mask>
     <mask>*opentok*.*</mask>
+    <mask>*module*.*</mask>
   </component>
 </application>
