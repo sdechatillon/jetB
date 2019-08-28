@@ -41,6 +41,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta colon" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
