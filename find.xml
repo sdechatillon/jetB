@@ -19,7 +19,6 @@
     <mask>*service*.*</mask>
     <mask>*test*.*</mask>
     <mask>*tester*.*</mask>
-    <mask>*route*.*</mask>
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
     <mask>*.html</mask>
@@ -37,5 +36,6 @@
     <mask>*visio*.*ts</mask>
     <mask>*opentok*.*</mask>
     <mask>*module*.*</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
