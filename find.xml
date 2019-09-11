@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*helper*.*</mask>
     <mask>*api*service*.*</mask>
@@ -35,5 +34,6 @@
     <mask>*opentok*.*</mask>
     <mask>*module*.*</mask>
     <mask>*route*.*</mask>
+    <mask>*button*.*</mask>
   </component>
 </application>
