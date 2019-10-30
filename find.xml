@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*route*.*" />
+    <option name="FILE_MASK" value="*test*.*" />
     <mask>*helper*.*</mask>
     <mask>*api*service*.*</mask>
     <mask>*.*js</mask>
@@ -12,7 +12,6 @@
     <mask>*.*csv</mask>
     <mask>*.*html*</mask>
     <mask>*service*.*</mask>
-    <mask>*test*.*</mask>
     <mask>*tester*.*</mask>
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
@@ -34,5 +33,6 @@
     <mask>*button*.*</mask>
     <mask>*.*</mask>
     <mask>*route*.*</mask>
+    <mask>*test*.*</mask>
   </component>
 </application>
