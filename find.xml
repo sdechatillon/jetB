@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*helper*.*</mask>
     <mask>*api*service*.*</mask>
     <mask>*.*js</mask>
     <mask>*.*js*</mask>
@@ -33,5 +32,6 @@
     <mask>*test*.*</mask>
     <mask>*.*csv</mask>
     <mask>*.*ts*</mask>
+    <mask>*exam*.*</mask>
   </component>
 </application>
