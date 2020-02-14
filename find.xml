@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="local vault snap" />
-    <option name="defaultScopeName" value="local vault snap" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="local vault snap" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.*js</mask>
     <mask>*.*js*</mask>
     <mask>*.*html*</mask>
