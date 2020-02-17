@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*route*.*" />
     <mask>*.*js</mask>
     <mask>*.*js*</mask>
     <mask>*.*html*</mask>
@@ -29,11 +30,11 @@
     <mask>*module*.*</mask>
     <mask>*button*.*</mask>
     <mask>*.*</mask>
-    <mask>*route*.*</mask>
     <mask>*test*.*</mask>
     <mask>*.*csv</mask>
     <mask>*.*ts*</mask>
     <mask>*exam*.*</mask>
     <mask>*.*java</mask>
+    <mask>*route*.*</mask>
   </component>
 </application>
