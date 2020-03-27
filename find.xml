@@ -7,8 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*api*service*.*</mask>
-    <mask>*.*js</mask>
+    <option name="FILE_MASK" value="*visio*.*" />
     <mask>*.*js*</mask>
     <mask>*.*html*</mask>
     <mask>*service*.*</mask>
@@ -37,5 +36,7 @@
     <mask>*.*csv</mask>
     <mask>*.*ts*</mask>
     <mask>*exam*.*</mask>
+    <mask>*202002*.*</mask>
+    <mask>*visio*.*</mask>
   </component>
 </application>
