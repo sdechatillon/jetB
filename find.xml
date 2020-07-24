@@ -2,9 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.*js*</mask>
     <mask>*.*html*</mask>
+    <mask>*service*.*</mask>
     <mask>*tester*.*</mask>
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
@@ -32,6 +35,5 @@
     <mask>*exam*.*</mask>
     <mask>*202002*.*</mask>
     <mask>*visio*.*</mask>
-    <mask>*service*.*</mask>
   </component>
 </application>
