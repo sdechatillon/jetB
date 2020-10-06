@@ -4,9 +4,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="helpers" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="20190709184600-fix-operators-outcome-condition" type="SQL" />
       <mapping pattern="FileHelper" type="TypeScript" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
