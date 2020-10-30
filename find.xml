@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.*js*</mask>
+    <option name="FILE_MASK" value="*form*.*" />
     <mask>*.*html*</mask>
     <mask>*service*.*</mask>
     <mask>*tester*.*</mask>
@@ -35,5 +35,6 @@
     <mask>*exam*.*</mask>
     <mask>*202002*.*</mask>
     <mask>*visio*.*</mask>
+    <mask>*form*.*</mask>
   </component>
 </application>
