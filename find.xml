@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*simpl*.csv" />
+    <mask>*.*html*</mask>
     <mask>*service*.*</mask>
     <mask>*tester*.*</mask>
     <mask>*README*.*</mask>
@@ -35,6 +35,5 @@
     <mask>*202002*.*</mask>
     <mask>*visio*.*</mask>
     <mask>*form*.*</mask>
-    <mask>*simpl*.csv</mask>
   </component>
 </application>
