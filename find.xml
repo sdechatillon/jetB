@@ -28,12 +28,12 @@
     <mask>*button*.*</mask>
     <mask>*.*</mask>
     <mask>*route*.*</mask>
-    <mask>*test*.*</mask>
     <mask>*.*csv</mask>
     <mask>*.*ts*</mask>
     <mask>*exam*.*</mask>
     <mask>*202002*.*</mask>
     <mask>*visio*.*</mask>
     <mask>*form*.*</mask>
+    <mask>*test*.*</mask>
   </component>
 </application>
