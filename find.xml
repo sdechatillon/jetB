@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.*html*</mask>
+    <option name="FILE_MASK" value="*formly*.*" />
     <mask>*service*.*</mask>
     <mask>*tester*.*</mask>
     <mask>*README*.*</mask>
@@ -37,5 +37,6 @@
     <mask>*visio*.*</mask>
     <mask>*form*.*</mask>
     <mask>*test*.*</mask>
+    <mask>*formly*.*</mask>
   </component>
 </application>
