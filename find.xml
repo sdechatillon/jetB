@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*service*.*</mask>
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*tester*.*</mask>
     <mask>*README*.*</mask>
     <mask>*ROUTE*.*</mask>
@@ -35,5 +35,6 @@
     <mask>*form*.*</mask>
     <mask>*test*.*</mask>
     <mask>*formly*.*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
